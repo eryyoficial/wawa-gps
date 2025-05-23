@@ -1,0 +1,1 @@
+<img src="{{asset('/assets/images/logo1.png')}}" alt="Logo Wawa GPS" class="w-10 h-10">
